@@ -19,7 +19,7 @@
 
 ### Day 2: November 30, 2018
 
-**Today's Progress**: In the morning I managed to find some time to finish that weather projet on codepen -I'm not finished with the visuals, though- I also finished the CSS part of the freeCodeCamp course. It's 20h53 and I'm creating a node API to redirect requests with authentication handling, this is way you don't need to implement you authentication on your code. Just request that API. Don't put your hopes up so high as I am still working on it :) now I'm gonna eat hambuguers with my family! Happy Coding to all! <3
+**Today's Progress**: In the morning I managed to find some time to finish that weather projet on codepen -I'm not finished with the visuals, though- I also finished the CSS part of the freeCodeCamp course. It's 20h53 and I'm creating a node API to redirect requests with authentication handling, this is way you don't need to implement you authentication on your code. Just request that API. Don't put your hopes up so high as I am still working on it :) now I'm gonna eat hambuguers with my family! Happy Coding to all! <3 PS: forgot to say that I even managed to run for 40 minutes today!!
 
 **Thoughts:** Today was a AWESOME!
 
