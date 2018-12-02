@@ -25,3 +25,11 @@
 
 **Link to work:** https://codepen.io/rodnorm/pen/ZmVEbV and https://github.com/Rodnorm/nodeAuth
 
+### Day 3: December 1, 2018
+
+**Today's Progress**: Today I worked mainly on that API I was talking about in the last log. It's not finished yet but many things are already working.
+
+**Thoughts:** I also managed to run -again- for 40 minutes, got a haircut and watched a play in the theater with my fiancee. <3
+
+**Link to work:** https://github.com/Rodnorm/nodeAuth
+
