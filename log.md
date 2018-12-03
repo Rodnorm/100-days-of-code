@@ -42,3 +42,14 @@
 
 **Link to work:** https://github.com/Rodnorm/nodeAuth and https://github.com/Rodnorm/blogfolio
 
+
+### Day 5: December 3, 2018
+
+**Today's Progress**: Well, today I finished the looks of that codepen project about weather forecast I did. I also did a teoric test about Angular. I don't know my results though, I'll be posting here as soon as I know.
+
+**Thoughts:** I found a tutorial to develop a feature I thought was going to be a problem, turns out it is indeed a problem but it isn't that big anymore. I think I can take it :)
+
+**Link to work:** https://codepen.io/rodnorm/pen/ZmVEbV
+
+
+
