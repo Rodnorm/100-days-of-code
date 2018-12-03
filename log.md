@@ -33,3 +33,12 @@
 
 **Link to work:** https://github.com/Rodnorm/nodeAuth
 
+
+### Day 4: December 2, 2018
+
+**Today's Progress**: I'm commiting this on December 3rd - I slept and forgot to do day earlier - Well, I worked on that API and it is finished! I integrated it with another project I've been working on for college, which is a ecommerce in Angular. It's fully integrated now ^^ I only need to adapt some stuff in order for this api to be integrable with different systems. I also started making my blogfolio, I intend to launch it this week! I'd better run, then :)
+
+**Thoughts:** I don't know if I fully agree with the 'Per aspera ad astra' motto but it may apply well in the tech industry, as simplist as it might sound. Regardless of that, I'm enjoying every moment of that.
+
+**Link to work:** https://github.com/Rodnorm/nodeAuth and https://github.com/Rodnorm/blogfolio
+
