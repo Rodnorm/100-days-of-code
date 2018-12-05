@@ -52,7 +52,7 @@
 **Link to work:** https://codepen.io/rodnorm/pen/ZmVEbV
 
 
-### Day 5: December 4, 2018
+### Day 6: December 4, 2018
 
 **Today's Progress**: Well, I worked mainly in my portfolio website. I'm hosting it on github pages for now.
 
