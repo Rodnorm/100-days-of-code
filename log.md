@@ -52,4 +52,11 @@
 **Link to work:** https://codepen.io/rodnorm/pen/ZmVEbV
 
 
+### Day 5: December 4, 2018
+
+**Today's Progress**: Well, I worked mainly in my portfolio website. I'm hosting it on github pages for now.
+
+**Thoughts:** Today I got some amazing news! But I don't think I should tell it today. xD
+
+**Link to work:** https://github.com/Rodnorm/blogfolio
 
