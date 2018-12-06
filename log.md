@@ -68,5 +68,14 @@
 
 **Thoughts:** I'm posting this form my job at noon because I just forgot to do it yesterday!
 
-**Link to work:** https://github.com/Rodnorm/blogfolio
+**Link to work:** https://github.com/Rodnorm/blogfolio and https://github.com/Rodnorm/PI-Frontend
 
+
+
+### Day 8: December 6, 2018
+
+**Today's Progress**: Today I'm working on that Angular project and also in a project I have do hand in tomorrow. It's an app in Ionic, that has a list of tasks to be done. A simple todoApp
+
+**Thoughts:** Since I forgot it yesterday I'm doing it today so that I don't forget it anymore. xD
+
+**Link to work:** https://github.com/Rodnorm/todoApp
