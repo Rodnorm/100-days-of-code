@@ -60,3 +60,13 @@
 
 **Link to work:** https://github.com/Rodnorm/blogfolio
 
+
+
+### Day 7: December 5, 2018
+
+**Today's Progress**: I got my portfolio working fine. Added one more route to the nodeAuth API. Added localStorage and login/logout from my Angular projet at college. A lot of stuff.
+
+**Thoughts:** I'm posting this form my job at noon because I just forgot to do it yesterday!
+
+**Link to work:** https://github.com/Rodnorm/blogfolio
+
