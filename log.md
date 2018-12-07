@@ -78,4 +78,15 @@
 
 **Thoughts:** Since I forgot it yesterday I'm doing it today so that I don't forget it anymore. xD
 
-**Link to work:** https://github.com/Rodnorm/todoApp
+**Link to work:** https://github.com/Rodnorm/todoListApp
+
+
+
+### Day 9: December 7, 2018
+
+**Today's Progress**: Today I worked only on that todoApp and it's finished! Yep! Almost forgot, yesterday I created an api to serve the blogfolio, this api is already connected to mongoDB and I'll link the repo bellow. The Frontend is not connected to that api yet.
+
+**Thoughts:** I'm really glad I managed to finish that! Next week week I'll have plenty of free time to finish some Angular projects and make a tutorial about this Ionic app
+
+
+**Link to work:** https://github.com/Rodnorm/todoListApp and https://github.com/Rodnorm/blogfolio-api
