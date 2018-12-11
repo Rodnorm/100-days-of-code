@@ -90,3 +90,15 @@
 
 
 **Link to work:** https://github.com/Rodnorm/todoListApp and https://github.com/Rodnorm/blogfolio-api
+
+
+### Day 10: December 8, 9, 10, 11, 2018
+
+**Today's Progress**: I got no computer anymore. Previousy I was using the one at work to code but now I've left my job and will start on a new one on Monday, the 17th. What I managed to do is start and partially finish the Wikipedia Viewer Project from freeCodeCamp and today I am working on that Angular Project at college - I'm writing this from college's computer. To be fair to the challenge I will count the past four days as just one.
+
+**Thoughts:** I did it! I got a new job! On that job I'll be working as a Junior Frontend Developer mainly with Angular! This is a big company and I'm ready to take this challenge!
+
+
+**Link to work:** https://github.com/Rodnorm/PI-Frontend and https://codepen.io/rodnorm/full/zyYpVW
+
+
